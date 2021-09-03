@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-From task-1
+From task-1 modifications
 
 <!---
 TriumvirateInteractive/TriumvirateInteractive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
